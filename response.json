@@ -1,0 +1,149 @@
+{
+  "commonEventObject": {
+    "hostApp": "DRIVE",
+    "platform": "WEB",
+    "formInputs": {
+      "Selection Input Switch": {
+        "stringInputs": {
+          "value": ["Selection Input Blogging Guidelines Value"]
+        }
+      }
+    }
+  },
+  "drive": {},
+  "authorizationEventObject": {
+    "userOAuthToken": "ya29.a0ARrdaM9StYKuFvbSa3DR0RudTmJdyIj86LTUMt4TWy6cMHwIi-aZUFt6unitUpyjAIE1ZXGZuebK6GJajHJnZRldQ1mnD1_O5wiPBQfkqZWcnJmHqiSfOdS9NP7MbY_hloiLHGmvPhYwDkg45CYOd57JvG286Q",
+    "systemIdToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjI3YzcyNjE5ZDA5MzVhMjkwYzQxYzNmMDEwMTY3MTM4Njg1ZjdlNTMiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJodHRwczovL3VzLWNlbnRyYWwxLWRyaXZlYWRkb24tMjEyMi5jbG91ZGZ1bmN0aW9ucy5uZXQvdGVzdGluZ193aGVuX2JveF9pc19jaGVja2VkIiwiYXpwIjoiMTE3Mjg4MDI0MTM4NTM5MDY0MDk5IiwiZW1haWwiOiJzZXJ2aWNlLTI1NzE2MDYxMTgzMkBnY3Atc2EtZ3N1aXRlYWRkb25zLmlhbS5nc2VydmljZWFjY291bnQuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImV4cCI6MTYzNjYyNjA2MiwiaWF0IjoxNjM2NjIyNDYyLCJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJzdWIiOiIxMTcyODgwMjQxMzg1MzkwNjQwOTkifQ.anOaEnjOQVorHHaJBE0XWwzZaG-TjNQF4kdZXK0jn-o081Kj1V6kmfrN8ZHPCk1-3B5js1ZSxfe1M6MxIdO5AyEJ6HI1_kE8tmukmM3xtZHiB4HKce0OB6J8qAOPSJTuP5alOBKBezVVqc9k6CCtEcG0rGnJvjwvN2jgkSUmBqs3l2_bwCQ8Y83q6UC2DhWrJ5K8XiEv07XY4zUlMpfyG6aqdSE-F3inm_J_RkLvJ0oahD1WM794eb6312iz7m7RITRvIAfQLYbStZf4TdDUUo0w7W6ZYl4T_5XSn8clbm3XT1QhAHA9fvL0XiirQZVD778zLiUJgP0EqzAtlbrfcg"
+  }
+}
+
+{
+  'kind': 'drive#changeList',
+  'newStartPageToken': '56638',
+  'changes': [
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-08T06:30:31.914Z',
+      'removed': True,
+      'fileId': '1roo4LnLjZQwbCB4WKI6WbdEbpcbgiDAX'
+    },
+    {'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-08T06:30:31.914Z',
+      'removed': True,
+      'fileId': '1KdM_UUhXdxCesuU1cx-qxIUGkcK-kzhs'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-08T06:30:31.914Z',
+      'removed': True,
+      'fileId': '1WSux4pJ77qCcUW1jpwMVwMucgI0uW_1t'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T10:43:14.039Z',
+      'removed': True,
+      'fileId': '1v7Q2VkhYaMrbTsdHTc-duFEOkiYtdozq'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:17:19.800Z',
+      'removed': True,
+      'fileId': '1CJ2BVaLHQJ-u9WLgV0UA9Djli9SAlneZ'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:17:19.800Z',
+      'removed': True,
+      'fileId': '1feGczP-HRDUV4nlqKRe3anIrXTFwVPt3'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:17:19.800Z',
+      'removed': True,
+      'fileId': '1w4DadGZtaKCA0cxRQGXsTlt9TFnpazEf'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:17:19.800Z',
+      'removed': True,
+      'fileId': '10eO4mYZCE8jcJ-ZCO7M0W472PPoXJxYa'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:17:19.800Z',
+      'removed': True,
+      'fileId': '1RgxWk5xWyZuVqpeKG18XQI4lDSQJ47hK'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:21:51.473Z',
+      'removed': True,
+      'fileId': '1J_sA3VXep-yWVemBFOESQm3sVSYj77B6'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:21:51.473Z',
+      'removed': True,
+      'fileId': '1DkJxYHRZgYCVV8Kh1-EKY1j2OMTvaJ_b',
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:21:51.473Z',
+      'removed': True,
+      'fileId': '10sgNaQ9Jl8j5-gwZ-UxOY2euB9dTUuGK'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:21:51.473Z',
+      'removed': True,
+      'fileId': '1fZoIhQv9cEe58K89u7rnTZW11tC6ZUhaIpz1PlmMqkY'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:21:51.474Z',
+      'removed': True,
+      'fileId': '1UnQwmaRqng15VloiojnkRo_HIae1kdhlgXZ6VRcBXtw'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:30:14.432Z',
+      'removed': True,
+      'fileId': '1GJ11OzEfsKK7tNXtLtplFrXGERkMzKe-'
+    },
+    {
+      'kind': 'drive#change',
+      'type': 'file',
+      'changeType': 'file',
+      'time': '2021-11-09T22:30:14.432Z',
+      'removed': True, 'fileId': '1IaAZb_OmEn7a7YE8shhRS0WM-SQoDbpz'
+    }, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-09T22:30:14.432Z', 'removed': True, 'fileId': '1JCrSK3EAw0ihBXDCbPIXWdvMGK1ffTwo'}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-09T22:30:14.432Z', 'removed': True, 'fileId': '15o4Y7Fp2j2Bxr4slfle6JG5tjG-sD-HO'}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-09T22:30:14.432Z', 'removed': True, 'fileId': '1pqtpH9ovsign87OZbA7_YrEjMssfEg0sTDGsaFsBEsU'}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-09T22:30:49.893Z', 'removed': True, 'fileId': '13s__hWFbKdRM0OH4lvjEclHU2glNPoIP'}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-09T22:30:49.893Z', 'removed': True, 'fileId': '13W1uWNv4nE-v3pRuQI6hgZ1XuwPsf0v8'}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-10T06:45:49.845Z', 'removed': False, 'fileId': '17xSyIr-UnZ9YUt4ZgdQSb_6AkTMttgci', 'file': {'kind': 'drive#file', 'id': '17xSyIr-UnZ9YUt4ZgdQSb_6AkTMttgci', 'name': 'Testing_single_parent2', 'mimeType': 'application/vnd.google-apps.folder'}}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-10T06:46:59.022Z', 'removed': False, 'fileId': '1sTB3VG44_v4aAGnRi39c7SsUSBZPofSV', 'file': {'kind': 'drive#file', 'id': '1sTB3VG44_v4aAGnRi39c7SsUSBZPofSV', 'name': 'EE F658 Homework', 'mimeType': 'application/vnd.google-apps.folder'}}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-10T06:47:19.057Z', 'removed': False, 'fileId': '10ZTHaLE7Re9Or-PVglaHJWapzBg2DPr8CNOWhnjaVYA', 'file': {'kind': 'drive#file', 'id': '10ZTHaLE7Re9Or-PVglaHJWapzBg2DPr8CNOWhnjaVYA', 'name': 'Talk #0 paper', 'mimeType': 'application/vnd.google-apps.document'}}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-10T06:57:20.141Z', 'removed': False, 'fileId': '16chkUpuyfAeyK8QFV4OTA25ACiqOQSJ6', 'file': {'kind': 'drive#file', 'id': '16chkUpuyfAeyK8QFV4OTA25ACiqOQSJ6', 'name': 'TCPS5E9_11-01-21.mp3', 'mimeType': 'audio/mpeg'}}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-10T07:19:27.943Z', 'removed': False, 'fileId': '1YcCWZOsb2PT-PagbYYTd1O62-6rFPgGY', 'file': {'kind': 'drive#file', 'id': '1YcCWZOsb2PT-PagbYYTd1O62-6rFPgGY', 'name': '6A2C5873-7DBE-4BE1-854B-BBDDE527B7A5.jpg', 'mimeType': 'image/jpeg'}}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-10T22:18:05.250Z', 'removed': False, 'fileId': '1P4PT5EAa9t7jM8gpGLEVYIoLHQc9OoflzjiWrRa_nwY', 'file': {'kind': 'drive#file', 'id': '1P4PT5EAa9t7jM8gpGLEVYIoLHQc9OoflzjiWrRa_nwY', 'name': 'CS 600 Book Presentation', 'mimeType': 'application/vnd.google-apps.presentation'}}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-10T22:18:56.744Z', 'removed': False, 'fileId': '1jyec3TVTSpfxKOx3q5THepY2xs1ScUP5fF3Tao6Mxmc', 'file': {'kind': 'drive#file', 'id': '1jyec3TVTSpfxKOx3q5THepY2xs1ScUP5fF3Tao6Mxmc', 'name': 'Notes for CS 600 book presentation', 'mimeType': 'application/vnd.google-apps.document'}}, {'kind': 'drive#change', 'type': 'file', 'changeType': 'file', 'time': '2021-11-11T09:10:51.604Z', 'removed': False, 'fileId': '12vV1Vl-41ldBF7myVivwqZnDNQ2TuDtk4dqZFnKrRuE', 'file': {'kind': 'drive#file', 'id': '12vV1Vl-41ldBF7myVivwqZnDNQ2TuDtk4dqZFnKrRuE', 'name': 'CS600 book notes', 'mimeType': 'application/vnd.google-apps.document'}}]}
